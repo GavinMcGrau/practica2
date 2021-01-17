@@ -37,24 +37,24 @@ Todo el contenido incluido dentro del elemento <body> es parte de una sección. 
 
 Ejemplo:
 
-<section>
-     <h1>Forest elephants</h1>
-<section>
-     <h1>Introduction</h1>
-     <p>In this section, we discuss the lesser known forest elephants.
-</section>
- <section>
-    <h1>Habitat</h1>
-    <p>Forest elephants do not live in trees but among them.
- </section>
- <aside>
-    <p>advertising block
-    </aside>
-</section>
-<footer>
-     <p>(c) 2010 The Example company
-</footer>
-------------------------------------------------------------
+
+<*section>
+    <*h1>Forest elephants</h1>
+<*section>
+     <*h1>Introduction<*/h1>
+     <*p>In this section, we discuss the lesser known forest elephants.
+<*/section>
+ <*section>
+    <*h1>Habitat</h1>
+    <*p>Forest elephants do not live in trees but among them.
+ <*/section>
+ <*aside>
+    <*p>advertising block
+    <*/aside>
+<*/section>
+<*footer>
+     <*p>(c) 2010 The Example company
+<*/footer>
 
 Instrucciones para la Entrega
 La entrega debe incluir el URL de la página Web (o app) publicada en Internet en la descripción de la entrega con un texto como el siguiente:
