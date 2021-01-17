@@ -33,7 +33,7 @@ El algoritmo de perfilado de HTML5
 
 Definiendo secciones en HTML5
 
-Todo el contenido incluido dentro del elemento <body> es parte de una sección. Las secciones en HTML5 pueden ser anidadas. Además de la sección principal, definida por el elemento <body>, los límites de la sección son definidos explícita o implícitamente. La secciones definidas explícitamente son el contenido definido en las etiquetas <body>, <section>, <article>, <aside>, <footer>, <header>, y <nav>. Nota: Cada sección puede tener su propia jerarquía de cabeceras. Por lo tanto, incluso una sección anidada puede tener un elemento <h1>. Consulte también Definiendo cabeceras en HTML5.
+Todo el contenido incluido dentro del elemento <body> es parte de una sección. Las secciones en HTML5 pueden ser anidadas. Además de la sección principal, definida por el elemento <body>, los límites de la sección son definidos explícita o implícitamente. La secciones definidas explícitamente son el contenido definido en las etiquetas <body>, <section>, <article>, <aside>, <footer>, <header>, y <nav>. Nota: Cada sección puede tener su propia jerarquía de cabeceras. Por lo tanto, incluso una sección anidada puede tener un elemento <*h1> Consulte también Definiendo cabeceras en HTML5.
 
 Ejemplo:
 
