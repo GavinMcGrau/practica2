@@ -61,7 +61,7 @@ La entrega debe incluir el URL de la página Web (o app) publicada en Internet e
 
 Mi entrega está accesible en:
 
-[AQUÍ](http://nombre_del_grupo.neocities.org/index.html)
+[aquí.](https://polarcs.gitlab.io/practica-2)
 
 
 
