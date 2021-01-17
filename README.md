@@ -59,17 +59,15 @@ Ejemplo:
 Instrucciones para la Entrega
 La entrega debe incluir el URL de la página Web (o app) publicada en Internet en la descripción de la entrega con un texto como el siguiente:
 
-"Mi entrega está accesible en:
+Mi entrega está accesible en:
 
 [AQUÍ](http://nombre_del_grupo.neocities.org/index.html)
 
-............
 
-para su evaluación".  
 
 Además debe subirse el fichero con la página Web o app como un fichero adjunto la entrega por seguridad.
 
-OJO! Una vez enviada la entrega, esta no se puede cambiar. Comprueben que entregan todo correctamente antes de enviarlo.
+¡OJO! Una vez enviada la entrega, esta no se puede cambiar. Comprueben que entregan todo correctamente antes de enviarlo.
 
  
 
