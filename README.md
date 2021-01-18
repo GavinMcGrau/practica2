@@ -20,7 +20,7 @@ La definición de la estructura de un documento en HTML 4 y su algoritmo de perf
 
 2.     Mezclar varios documentos es difícil: la inclusión de un sub-documento en un documento principal. Esto se resuelve en HTML5 con los elementos de seccionado (<article>, <section>, <nav> y <aside>) son siempre subsecciones de su sección ancestra más cercana.
 
-3.     HTML5 introduce el elemento <hgroup> que oculta todos los elementos de cabecera excepto el primero de más alto rango (por ejemplo, <hgroup><h1>Justine</h1><h2>Les Malheurs de la Vertu</h2></hgroup> crea el perfil 1. Justine).
+3.     HTML5 introduce el elemento<hgroup> que oculta todos los elementos de cabecera excepto el primero de más alto rango (por ejemplo, <hgroup><h1>Justine</h1><h2>Les Malheurs de la Vertu</h2></hgroup> crea el perfil 1. Justine).
 
 4.     Un documento puede tener secciones especiales conteniendo información relacionado que no es parte del flujo principal. HTML5 introduce el elemento <aside> permitiendo a dichas secciones no ser parte del perfil principal.
 
@@ -58,31 +58,3 @@ Ejemplo:
      <p>(c) 2010 The Example company
 </footer>
 ```
-
-Instrucciones para la Entrega
-La entrega debe incluir el URL de la página Web (o app) publicada en Internet en la descripción de la entrega con un texto como el siguiente:
-
-
-Instrucciones para la evaluación por pares. 
-El evaluador debe analizar y visualizar dicho fichero y comprobar que funciona correctamente.
-
-La nota se calculará sobre 10 puntos:
-
-1.     Etiquetas básicas HTML5, comprobando la correcta jerarquía visual del archivo y emplea correctamente las siguientes etiquetas: titulares h1, h2, h3... párrafos, listas, negrita, cursiva, código...- 2/10.
-
-2.     Etiquetas semánticas HTML5, comprobando que el alumno utiliza, <section>, <article>, <aside>, <footer>, <header>, y <nav>- 2/10.
-
-3.     Emplea propiedades CSS para formatear el contenido, comprobando que el alumno incluye características tipográficas, colores, márgenes... - 2/10.
- 
-
-4.     Comprobando que incluye en el HEAD la información general de la página, al menos debe incluir,el tipo de documento, el charset y title - 2/10.
- 
-
-5.     Comprobar que ha subido correctamente a neocities todos los archivos necesarios para su correcta visualización - 2/10.
-
-
-Dado que es un curso para principiantes, ante la duda les pedimos que sean benevolentes con sus compañeros, porque muchos participantes están empezando con HTML5 y los primeros pasos siempre son difíciles.
-
-El objetivo de este curso es sacar el máximo provecho al trabajo dedicado y para ello lo mejor es utilizar las evaluaciones para ayudar al evaluado, especialmente a los principiantes. Al evaluar se debe dar comentarios sobre la corrección del código CSS, su claridad, legibilidad, ordenación y comentarios, siempre que puedan ayudar al evaluado. 
-
-OJO! Una vez enviada la evaluación, está no se puede cambiar. Piensen bien su evaluación antes de enviarla.
