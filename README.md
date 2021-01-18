@@ -1,4 +1,4 @@
-Esta práctica se puede acceder desde** [AQUÍ](https://polarcs.gitlab.io/practica-2)
+# **Esta práctica se puede acceder desde** [AQUÍ](https://polarcs.gitlab.io/practica-2)
 
 # PRÁCTICA 2
 
