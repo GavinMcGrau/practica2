@@ -1,6 +1,9 @@
-# **Esta práctica es un esquema de las diferencias opciones basicas que se pueden hacer con HTML y creamos nuestra primera pagina web. Esta se puede acceder desde** [AQUÍ](https://polarcs.gitlab.io/practica-2)
+Esta práctica se puede acceder desde** [AQUÍ](https://polarcs.gitlab.io/practica-2)
 
 # PRÁCTICA 2
+
+Esta práctica es un esquema de las diferencias opciones basicas que se pueden hacer con HTML y creamos nuestra primera página web.
+
 ## EL ENUNCIADO
 
 Práctica 2: Secciones y líneas generales de un documento HTML5
